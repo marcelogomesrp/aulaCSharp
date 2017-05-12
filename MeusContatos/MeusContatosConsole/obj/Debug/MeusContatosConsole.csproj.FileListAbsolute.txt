@@ -6,3 +6,11 @@ c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosC
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.csprojResolveAssemblyReference.cache
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.exe
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.exe.config
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.exe
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.exe
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatos.dll
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatos.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.csprojResolveAssemblyReference.cache

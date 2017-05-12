@@ -3,3 +3,8 @@ c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csprojResolveAssemblyReference.cache
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.dll
 c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatos\bin\Debug\MeusContatos.dll
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatos\bin\Debug\MeusContatos.pdb
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csprojResolveAssemblyReference.cache
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatos\obj\Debug\MeusContatos.dll
+C:\Users\alunos\Documents\GitHub\aulaCSharp\MeusContatos\MeusContatos\obj\Debug\MeusContatos.pdb

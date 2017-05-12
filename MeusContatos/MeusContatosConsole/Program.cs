@@ -19,6 +19,7 @@ namespace MeusContatosConsole
             int op;
             do
             {
+                Console.Clear();
                 Console.WriteLine(" *** Menu ***");
                 Console.WriteLine("0 - Sair");
                 Console.WriteLine("1 - Incluir");
@@ -39,12 +40,14 @@ namespace MeusContatosConsole
 
         public void opcaoInvalida()
         {
+            Console.Clear();
             Console.WriteLine("Opcao invalida.");
             Console.WriteLine("Pressione uma tecla para retornar");
             Console.ReadKey();
         }
         public void buscarPorNome()
         {
+            Console.Clear();
             Console.WriteLine("*** Buscar por nome *** ");
             Console.WriteLine("Entre com  o nome: ");
             String nome = Console.ReadLine();
@@ -67,6 +70,7 @@ namespace MeusContatosConsole
         }
         public void buscar()
         {
+            Console.Clear();
             Console.WriteLine("*** Todos *** ");
             Console.WriteLine("Nome\tFone");
             foreach (Contato c in agenda.Buscar())
@@ -78,6 +82,7 @@ namespace MeusContatosConsole
         }
         public void incluir()
         {
+            Console.Clear();
             Contato contato = new Contato();
             Console.WriteLine("*** Incluir novo contato ***");
             Console.WriteLine("Entre com o nome: ");
@@ -90,6 +95,7 @@ namespace MeusContatosConsole
         }
         public void bye()
         {
+            Console.Clear();
             Console.WriteLine("Bye bye...");
         }
         static void Main(string[] args)
