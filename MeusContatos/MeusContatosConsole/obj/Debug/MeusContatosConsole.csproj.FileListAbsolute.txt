@@ -1,0 +1,8 @@
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.exe.config
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.exe
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatosConsole.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatos.dll
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\bin\Debug\MeusContatos.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.exe
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatosConsole\obj\Debug\MeusContatosConsole.pdb

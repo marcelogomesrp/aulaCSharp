@@ -1,0 +1,5 @@
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\bin\Debug\MeusContatos.dll
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\bin\Debug\MeusContatos.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.dll
+c:\users\alunos\documents\visual studio 2013\Projects\MeusContatos\MeusContatos\obj\Debug\MeusContatos.pdb
