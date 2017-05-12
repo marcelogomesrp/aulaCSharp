@@ -90,7 +90,7 @@ namespace MeusContatosConsole
         }
         public void bye()
         {
-            Console.WriteLine("Bye...");
+            Console.WriteLine("Bye bye...");
         }
         static void Main(string[] args)
         {
