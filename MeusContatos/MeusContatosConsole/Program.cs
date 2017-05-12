@@ -38,14 +38,14 @@ namespace MeusContatosConsole
             } while (op != 0);
         }
 
-        public void opcaoInvalida()
+        private void opcaoInvalida()
         {
             Console.Clear();
             Console.WriteLine("Opcao invalida.");
             Console.WriteLine("Pressione uma tecla para retornar");
             Console.ReadKey();
         }
-        public void buscarPorNome()
+        private void buscarPorNome()
         {
             Console.Clear();
             Console.WriteLine("*** Buscar por nome *** ");
@@ -68,7 +68,7 @@ namespace MeusContatosConsole
             Console.WriteLine("Pressione uma tecla para retornar");
             Console.ReadKey();
         }
-        public void buscar()
+        private void buscar()
         {
             Console.Clear();
             Console.WriteLine("*** Todos *** ");
@@ -80,7 +80,7 @@ namespace MeusContatosConsole
             Console.WriteLine("Pressione uma tecla para retornar");
             Console.ReadKey();
         }
-        public void incluir()
+        private void incluir()
         {
             Console.Clear();
             Contato contato = new Contato();
@@ -93,7 +93,7 @@ namespace MeusContatosConsole
             Console.WriteLine("Contato adicionado com sucesso, pressione uma tecla para retornar");
             Console.ReadKey();
         }
-        public void bye()
+        private void bye()
         {
             Console.Clear();
             Console.WriteLine("Bye bye...");
